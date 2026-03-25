@@ -4,16 +4,16 @@ The platform connects users with technicians for different home services such as
 
 –––––––––––––––––––––
 ## Key Features:
-• Request maintenance services 
-• Manage technician requests
-• User-friendly interface
-• Organized service categories
+- Request maintenance services 
+- Manage technician requests
+- User-friendly interface
+- Organized service categories
 
 ––––––––––––––––––––––
 
 ## Technologies Used:
-• Python
-• Flask
-• SQLite
-• HTML / CSS
+- Python
+- Flask
+- SQLite
+- HTML / CSS
 
